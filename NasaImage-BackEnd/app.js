@@ -23,7 +23,7 @@ app.use(function (req, res, next) {
 
   next();
 });
-const whitelist = [ 'https://NasaImange-frontEnd.vercel.app','http://localhost:5173']
+const whitelist = [ 'https://nasa-image-daily-w1ue.vercel.app','http://localhost:5173']
 const corsOptions = {
   origin: whitelist,
   methods:["POST", "PUT", "GET", "OPTIONS", "HEAD", "PATCH"],
