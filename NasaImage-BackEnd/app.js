@@ -23,7 +23,7 @@ app.use(function (req, res, next) {
 
   next();
 });
-const whitelist = [ 'https://nasa-image-daily-w1ue.vercel.app','http://localhost:5173']
+const whitelist = [ 'https://nasa-frontend-ten.vercel.app/','http://localhost:5173']
 const corsOptions = {
   origin: whitelist,
   methods:["POST", "PUT", "GET", "OPTIONS", "HEAD", "PATCH"],
@@ -46,5 +46,5 @@ mongoose.connection.on('error', () => {
 });
 
 app.listen(PORT, () => {
-  console.log('http://localhost:5173/');
+  console.log('http://localhost:5000/');
 });
