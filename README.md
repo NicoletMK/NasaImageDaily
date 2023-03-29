@@ -8,7 +8,7 @@ An SPA that shows daily image/video of Nasa.
 - Frontend Environment - [Vite](https://vitejs.dev)
 - CSS Framework - [Tailwind](https://tailwindcss.com)
 - Database - [MongoDB](https://www.mongodb.com)
-- Server/Rountes Management - [ExpressJS] & [NodeJS]
+- Server/Rountes Management - [ExpressJS](https://expressjs.com) & [NodeJS](https://nodejs.org/en)
 - Backend Deployment - [Railway](https://railway.app)
 - Frontend Deployment - [Vercel](https://vercel.com)
 
