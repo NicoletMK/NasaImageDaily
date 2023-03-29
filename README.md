@@ -32,6 +32,12 @@ You can start editing the page by modifying src/App.jsx.
 The page auto-updates as you edit the file.
 
 
-## Deploy on Vercel
+## Front End Deploy on Vercel
 The project is deployed on vercel 
 https://nasa-image-daily-w1ue.vercel.app
+
+## Back End Deployed on Railway
+
+The backend is deployed on railway
+
+https://nasa-image-daily-production.up.railway.app
