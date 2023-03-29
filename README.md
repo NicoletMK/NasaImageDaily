@@ -15,7 +15,7 @@ An SPA that shows daily image/video of Nasa.
 ## Usage
 
 1. clone repo `git clone git@github.com:NicoletMK/NasaImageDaily.git <PROJECT-NAME>`
-2. install package `cd <PROJECT-NAME>` && `npm i` || `yarn install`
+2. install package `cd <PROJECT-NAME>` && `cd NasaImage-FrontEnd`&& `npm i` || `yarn install`
 3. run project `npm run dev` || `yarn dev`
 4. SPA see: http://localhost:5173 
 5. Start editing the page by modifying src/App.jsx.
