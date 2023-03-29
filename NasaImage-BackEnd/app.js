@@ -23,7 +23,7 @@ app.use(function (req, res, next) {
 
   next();
 });
-const whitelist = [ 'https://nasa-frontend-ten.vercel.app/','http://localhost:5173']
+const whitelist = [ 'https://nasa-frontend-five.vercel.app/','http://localhost:5173']
 const corsOptions = {
   origin: whitelist,
   methods:["POST", "PUT", "GET", "OPTIONS", "HEAD", "PATCH"],
