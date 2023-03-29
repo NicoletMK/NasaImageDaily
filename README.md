@@ -40,4 +40,4 @@ https://nasa-image-daily-w1ue.vercel.app
 
 The backend is deployed on railway
 
-https://nasa-image-daily-production.up.railway.app
+https://nasa-backend-production.up.railway.app
