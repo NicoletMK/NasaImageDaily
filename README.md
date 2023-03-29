@@ -1,43 +1,24 @@
-# Nasa-Image-Daily
+# NasaApp
 
-Nasa-Image-Daily is an app that shows daily image/video of Nasa.
-This is react project created with vite+react. 
+An SPA that shows daily image/video of Nasa.
 
-## Download
-Download the project as zip file or clone using link
-https://github.com/NicoletMK/NasaImageDaily.git
+# Framework and packages:
 
-## Installation
+- UI Framework - [React](https://reactjs.org/)
+- Frontend Environment - [Vite](https://vitejs.dev)
+- CSS Framework - [Tailwind](https://tailwindcss.com)
+- Database - [MongoDB](https://www.mongodb.com)
+- Server/Rountes Management - [ExpressJS] & [NodeJS]
+- Backend Deployment - [Railway](https://railway.app)
+- Frontend Deployment - [Vercel](https://vercel.com)
 
-For installing all dependencies
-```bash
-npm i 
-```
-OR
-```bash
-yarn install 
-```
-To run the project 
-```bash
-npm run dev
-```
-OR
-```bash
-yarn dev
-```
+## Usage
 
-Open http://localhost:5173 with your browser to see the result.
-
-You can start editing the page by modifying src/App.jsx.
-The page auto-updates as you edit the file.
+1. clone repo `git clone git@github.com:NicoletMK/NasaImageDaily.git <PROJECT-NAME>`
+2. install package `cd <PROJECT-NAME> && npm i || yarn install`
+3. run project `npm run dev || yarn dev`
+4. SPA see: http://localhost:5173 
+5. Start editing the page by modifying src/App.jsx.
 
 
-## Front End Deploy on Vercel
-The project is deployed on vercel 
-https://nasa-image-daily-w1ue.vercel.app
 
-## Back End Deployed on Railway
-
-The backend is deployed on railway
-
-https://nasa-backend-production.up.railway.app
