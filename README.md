@@ -6,7 +6,7 @@ An SPA that shows daily image/video of Nasa.
 
 - UI Framework - [React](https://reactjs.org/)
 - Frontend Environment - [Vite](https://vitejs.dev)
-- CSS Framework - [Tailwind](https://tailwindcss.com)
+- CSS Framework - [Tailwindcss](https://tailwindcss.com)
 - Database - [MongoDB](https://www.mongodb.com)
 - Server/Rountes Management - [ExpressJS](https://expressjs.com) & [NodeJS](https://nodejs.org/en)
 - Backend Deployment - [Railway](https://railway.app)
