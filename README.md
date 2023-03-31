@@ -1,6 +1,6 @@
 # NasaApp
 
-An SPA that shows daily image/video of Nasa.
+A SPA that shows daily image/video of Nasa.
 
 # Framework and packages:
 
@@ -19,6 +19,9 @@ An SPA that shows daily image/video of Nasa.
 3. run project `npm run dev` || `yarn dev`
 4. SPA see: http://localhost:5173 
 5. Start editing the page by modifying src/App.jsx.
+
+## Deployment URL
+https://nasa-frontend-five.vercel.app
 
 
 
