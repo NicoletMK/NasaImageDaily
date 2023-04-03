@@ -1,6 +1,6 @@
 # NasaApp
 
-A SPA that shows daily image/video of Nasa.
+A SPA that shows daily image/video of Nasa with a user login and gmail Oauth.
 
 # Framework and packages:
 
